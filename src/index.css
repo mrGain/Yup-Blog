@@ -47,3 +47,6 @@
   color: #f1356d;
   margin-bottom: 10px;
 }
+.blogPreview a{
+  text-decoration: none;
+}
